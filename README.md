@@ -1,6 +1,6 @@
 # Fed-Active 
 
-Askonas is a threat detection architecture that is inspired by the biological immune system. It uses machine learning to leverage detection through Fed-Active learning.
+Fed-Active is a threat detection architecture that is inspired by the biological immune system. It uses machine learning to leverage detection through Fed-Active learning.
 
 Stages completed:
 - Architecture design
